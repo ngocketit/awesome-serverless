@@ -169,6 +169,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Just Serverless](http://justserverless.com/blog)
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
 * [Migrating a Native JAVA REST API to a Serverless Architecture with the Lambada Framework for AWS](https://aws.amazon.com/blogs/compute/migrating-a-native-java-rest-api-to-a-serverless-architecture-with-the-lambada-framework-for-aws/)
+* [Architecting a Serverless Web Application in AWS](https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html)
 
 ### Books
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
